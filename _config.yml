@@ -36,5 +36,8 @@ navigation:
   - name: Mini Sessions
     id: 536b4817-b84d-4b8b-bc98-a6fefb65b230
     type: content
+  - name: Beauty Sessions
+    id: aa2f5945-17a3-4283-8637-c38ee46fb112
+    type: content
 title: AnnaMarie Photo AND Video Studio
 description: Portraits. Family.Weddings. Events
