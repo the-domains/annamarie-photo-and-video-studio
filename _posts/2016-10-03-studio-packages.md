@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-10-03T08:54:41.920Z'
+datePublished: '2016-10-03T14:02:50.836Z'
+sourcePath: _posts/2016-10-03-studio-packages.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T08:54:40.372Z'
+dateModified: '2016-10-03T14:02:48.466Z'
 title: Studio Packages
 publisher: {}
 description: >-
@@ -14,7 +15,6 @@ description: >-
   due at the time of booking in order to guarantee your session date and time.
   You may reschedule this appointment, provided you give us a minimum of 24
   hours notice, however we ask that you limit rescheduling to one time only~
-sourcePath: _posts/2016-10-03-studio-packages.md
 starred: false
 url: studio-packages/index.html
 _type: Article
@@ -24,9 +24,9 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07c665be-4076-4434-9ee7-006dbe153576.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb438901-4a4e-47b0-bb54-0b2d0abaf0ae.jpg)
 
-# Studio Packages
+# **Studio Packages**
 
-\*In studio Photo Packages start at $150 which covers the time and talent of the photographer a long with TEN Poses printed on 8x10 sheets that can be what ever size you like(4x6, 5x7, 8x10) And ONE 11x14 Wall portrait. $50 Deposit due at the time of booking in order to guarantee your session date and time. You may reschedule this appointment, provided you give us a minimum of 24 hours notice, however we ask that you limit rescheduling to one time only~
+**\*In studio Photo Packages start at $150 which covers the time and talent of the photographer a long with TEN Poses printed on 8x10 sheets that can be what ever size you like(4x6, 5x7, 8x10) And ONE 11x14 Wall portrait. $50 Deposit due at the time of booking in order to guarantee your session date and time. You may reschedule this appointment, provided you give us a minimum of 24 hours notice, however we ask that you limit rescheduling to one time only~**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8c47159-5176-4600-8dfe-a5d2b9c56459.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b46563d-8f89-421a-8bd0-6661ddcd3c5b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4649c05f-6894-4886-9d88-ea9daad04055.jpg)
@@ -132,34 +132,34 @@ _type: Article
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4074d3a1d352ba1aace23eacc8db890344f54231.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/37a16a80334c940743920da8a6418043ed425589.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/466b0437ad28e8f19e92aeac44ae634ddad937fb.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e207af90583b2bc9b2f4212f8914b5a6/croprotate.jpg?cropheight=1429&cropwidth=922&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fbc361915a6aa9d5980ec728f3b576ad839400220.jpg&x=2&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f48793f8d6d73a72729a62f5fd0ebb028ef77a14.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4a7184b2e69149016e2124a2e186243701a5d46.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d723a793d7b921cae6cc696025a14d18c20d3967.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/539a36b1-b746-4c34-b0c9-62e9b405d5b6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fbddb00-51bc-4536-afbe-c019385d1588.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b97d00b9-33d3-44e7-be00-efa1eb24f555.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4f94fac83605876f621b7b6ed4c97902/croprotate.jpg?cropheight=949&cropwidth=1388&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2263c207-3b30-428e-a1eb-29c378f3f291.jpg&x=20&y=0)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/da955db1955e99a28a191e9dee7e5949/croprotate.jpg?cropheight=929&cropwidth=1388&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F247aa394-b466-476c-8444-237e3478cbef.jpg&x=20&y=12)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fb74cb47929e9e290a3f4a2879d29820711e7d0.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f0b1475f89c42babe46949c277afecb510627c4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e70bb5b2-00c1-4e8e-bd5a-bc358b3bbd46.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7b11c6b-d5dc-4fff-81b5-d5cb2f6d8699.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c41ed6f-b4ee-4744-80e7-35a624bdce37.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04bafa8d-b7e6-4f50-824b-640f9eac5924.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9592763-929f-401f-8e6d-4c8806eb0565.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58360da4-5672-435f-b1fe-0bda1479c846.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/886ceb2a-0483-43d2-a9ce-4d62f04bba4e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83d63077-6eb3-490f-a917-88b222fcb735.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c62c45c6-84a9-40e6-8a74-10cf00e4f4a7.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/efc7bb52-b3bf-4122-a38a-73bdea74ab21.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75d80eba-591e-42ec-aa55-6033b58b526e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6d55fd6-5ea5-48da-916b-19b12618d188.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2dbdcf20-10d9-4629-990d-bd664811007a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d1653d9-8ab7-47c7-bc72-ee1ba5049df9.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a4e51ed-ed0e-4a52-abdd-77aabd48c9da.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/351e3c58-7e04-49da-bef8-514b1e2ab8e3.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb27f223-2975-478b-9f31-235822590657.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14c2da40-eb73-4631-b45a-3bc0a98f63c6.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/576ab4f8-c7e9-4482-ade8-bfa46ccc436c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/23ffe13b-f0bc-488e-b003-da4c438c6ae9.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4c88abf-87b8-4f29-9de8-0a192b3764f6.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a2b5d9c-e0ca-4c1a-bea5-b2ab8f8257cf.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75d857a8-e839-432d-ac41-05a617bf1487.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b80c45978c1257b8885be90e4d603dd323bf7e4.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e0a58b28eba963e453638e7613e9418d/croprotate.jpg?cropheight=1402&cropwidth=927&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F572bea8bf9e3e9ff1f3765d22f08a1686d7fddc3.jpg&x=0&y=16)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d192cf7a1ad79e903457ac57791a2593/croprotate.jpg?cropheight=1407&cropwidth=921&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F357c78fa83dff96da01c28b7d9a33c1dd1c88e39.jpg&x=2&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b4e07b7945cee5a6a927246a1d7b37e09a2c4f4.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b033d4d7e3800c8253caade201933c1aa4beb2b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6d9b0ff37a17f1eb65199341e2aad21dd246276.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf16ce33c41491896fd658b7d22f649272326717.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f58a2d553b6b606d5f5b86a818ec2fb9034b804c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/abbb4125b5764e638ff57d59e90a3d72938db43f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfb2b7ade78218c2dc5fce21b3515b04463cf1ac.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/df265239fb15908eaff3f5c0ca66a6913039333c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f51acb756582cca3983e35d386783778fe1f9ecb.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1261ee0b3cdfa785a0b4e742c4a67b98/croprotate.jpg?cropheight=1164&cropwidth=930&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F3ac22d44c51b9f0287acd197327a691b545f6349.jpg&x=0&y=13)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/0cdbc3e832b38adde854102fcfd94f8d/croprotate.jpg?cropheight=1164&cropwidth=930&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd4d9eb4c393cc057e806b33b187371a3bb8c0ff8.jpg&x=0&y=13)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed463894a1638da51df7c3aaa42d846e5428efea.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6dd7b4d3d52fdffdff8472017b9e26adb133592f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d3c820c9d5c4408d7520b4deb9581fd78ede7df.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1eaa2c0e4f1063f496afef15010d451eebaf87a7.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/18c4f8e2e5e2a2c7ea751246932108bd1a38c67b.jpg)
