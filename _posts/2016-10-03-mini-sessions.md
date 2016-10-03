@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-10-03T07:18:13.044Z'
+datePublished: '2016-10-03T07:18:35.815Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T07:18:12.524Z'
+dateModified: '2016-10-03T07:18:34.872Z'
 title: Mini Sessions
 publisher: {}
 description: >-
