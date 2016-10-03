@@ -1,14 +1,21 @@
 ---
-datePublished: '2016-10-03T08:56:41.348Z'
+datePublished: '2016-10-03T14:08:59.690Z'
+sourcePath: _posts/2016-10-03-boudoir-and-pinup.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T08:56:40.202Z'
-title: ''
+dateModified: '2016-10-03T14:08:57.957Z'
+title: Boudoir and PinUp
 publisher: {}
-description: Boudoir and PinUp
-sourcePath: _posts/2016-10-03-boudoir-and-pinup.md
+description: >-
+  *Boudoir and PinUp sessions: Session only, $200 & Makeover Session, $300. They
+  both include up to an hour session, with 3 changes, and 6 Beauty edits(Face &
+  Body retouching), PLUS you get "ALL" the images we take on a cd with the
+  copyrights! $100 Deposit due at the time of booking in order to guarantee your
+  session date and time. You may reschedule this appointment, provided you give
+  us a minimum of 24 hours notice, however we ask that you limit rescheduling to
+  one time only~
 starred: false
 url: boudoir-and-pinup/index.html
 _type: Article
@@ -21,9 +28,9 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cdf38e8-d7fd-41af-9965-9b8f9f4515ca.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61d4e518-2eb0-408a-b496-d396a6d1519c.jpg)
 
-Boudoir and PinUp
+## **Boudoir and PinUp**
 
-\*Boudoir and PinUp sessions: Session only, $200 & Makeover Session, $300\. They both include up to an hour session, with 3 changes, and 6 Beauty edits(Face & Body retouching), PLUS you get "ALL" the images we take on a cd with the copyrights! $100 Deposit due at the time of booking in order to guarantee your session date and time. You may reschedule this appointment, provided you give us a minimum of 24 hours notice, however we ask that you limit rescheduling to one time only~
+**\*Boudoir and PinUp sessions: Session only, $200 & Makeover Session, $300\. They both include up to an hour session, with 3 changes, and 6 Beauty edits(Face & Body retouching), PLUS you get "ALL" the images we take on a cd with the copyrights! $100 Deposit due at the time of booking in order to guarantee your session date and time. You may reschedule this appointment, provided you give us a minimum of 24 hours notice, however we ask that you limit rescheduling to one time only~**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d9b9166-2b5b-497f-b043-3d45d1422fb8.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c01297ed1ef1762241f955a2437989bcd1c9e597.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4df43fc0ab950b1c943ce4f8f8ec0e3052ea3fa3.jpg)
@@ -88,10 +95,10 @@ Boudoir and PinUp
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55e5fc09-a324-4959-b6d8-1e1d360c7c1e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5503cbb2-225c-4b79-9141-89e6ee4cf711.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce388edc-277f-4cfd-8f79-17f787d1b4fd.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8d195ea05a2bc66663aa2674326b4229/croprotate.jpg?cropheight=5100&cropwidth=3198&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc0d437eb-e4d8-4be0-a91c-2cca2fd49231.jpg&x=50&y=0)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8af1562-8073-437f-9a19-b44db2e241c1.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c626e72-3264-43a3-ad67-66d19052fc46.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/202719a1-ff61-45c5-b220-ea4f57dbffdf.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad7557e3386657ef9f3d9c0e32fc013278442c30.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6d73553e2e5f523b0e603ab16c2cded6/croprotate.jpg?cropheight=944&cropwidth=620&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe8af1562-8073-437f-9a19-b44db2e241c1.jpg&x=8&y=8)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d5ef2c4db569712d8ab09f0d0b1add36/croprotate.jpg?cropheight=944&cropwidth=620&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9c626e72-3264-43a3-ad67-66d19052fc46.jpg&x=8&y=8)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/23109a8e08c133ffa86ecb0af8d1fb14/croprotate.jpg?cropheight=944&cropwidth=620&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F202719a1-ff61-45c5-b220-ea4f57dbffdf.jpg&x=8&y=8)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9132632c-430b-436d-be9e-f38f942d43ef.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06a39503-ab1c-449c-9647-8d29f477fea0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/864b602a-97eb-4b8e-8ecf-5576f61d4eab.jpg)
