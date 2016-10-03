@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-10-03T07:14:03.110Z'
+datePublished: '2016-10-03T07:18:13.044Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T06:39:47.302Z'
+dateModified: '2016-10-03T07:18:12.524Z'
 title: Mini Sessions
 publisher: {}
 description: >-
@@ -12,8 +12,8 @@ description: >-
   the time of booking in order to guarantee your session date and time. You may
   reschedule this appointment, provided you give us a minimum of 48 hours
   notice, however we ask that you limit rescheduling to one time only.
-starred: false
 sourcePath: _posts/2016-10-03-mini-sessions.md
+starred: false
 url: mini-sessions/index.html
 _type: Article
 
