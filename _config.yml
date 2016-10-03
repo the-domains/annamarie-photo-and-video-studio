@@ -30,5 +30,8 @@ navigation:
   - name: Location Sessions
     id: edb0a0ec-74f1-48b9-9915-f34cc7f6211f
     type: content
+  - name: Maternity Sessions
+    id: 286bb1b2-f5ed-4d5e-ba6a-21438d8d808e
+    type: content
 title: AnnaMarie Photo AND Video Studio
 description: Portraits. Family.Weddings. Events
