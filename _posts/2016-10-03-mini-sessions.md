@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-10-03T08:56:12.799Z'
+datePublished: '2016-10-03T14:08:31.724Z'
+sourcePath: _posts/2016-10-03-mini-sessions.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T08:56:11.662Z'
+dateModified: '2016-10-03T14:08:30.485Z'
 title: Mini Sessions
 publisher: {}
 description: >-
@@ -12,7 +13,6 @@ description: >-
   the time of booking in order to guarantee your session date and time. You may
   reschedule this appointment, provided you give us a minimum of 48 hours
   notice, however we ask that you limit rescheduling to one time only.
-sourcePath: _posts/2016-10-03-mini-sessions.md
 starred: false
 url: mini-sessions/index.html
 _type: Article
@@ -33,9 +33,9 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/816055af-5f82-467d-84f5-5a9e24003823.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f94b50d-bbdc-4bc0-984e-8f7d067f510d.jpg)
 
-# Mini Sessions
+# **Mini Sessions**
 
-\*Mini Deals are pre-paid and there is a $50, non-refundable, Deposit due at the time of booking in order to guarantee your session date and time. You may reschedule this appointment, provided you give us a minimum of 48 hours notice, however we ask that you limit rescheduling to one time only.
+**\*Mini Deals are pre-paid and there is a $50, non-refundable, Deposit due at the time of booking in order to guarantee your session date and time. You may reschedule this appointment, provided you give us a minimum of 48 hours notice, however we ask that you limit rescheduling to one time only.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdbef719-ae1b-4c7a-bcaf-6f636d054b2b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e8ca105-0271-4e17-8c97-9ebb29156993.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9500a415-bbbb-4ef2-975f-7d6dc0dc3aa0.jpg)
