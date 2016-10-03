@@ -41,3 +41,7 @@ navigation:
     type: content
 title: AnnaMarie Photo AND Video Studio
 description: Portraits. Family.Weddings. Events
+purpose:
+  - type: contact
+    url: 'mailto:Photos@byannamarie.com'
+    label: Schedule your session~
