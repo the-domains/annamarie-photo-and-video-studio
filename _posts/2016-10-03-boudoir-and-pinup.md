@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-10-03T08:06:12.066Z'
+datePublished: '2016-10-03T08:54:16.349Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T08:06:11.698Z'
+dateModified: '2016-10-03T08:54:15.775Z'
 title: ''
 publisher: {}
 description: Boudoir and PinUp
