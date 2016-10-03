@@ -1,0 +1,24 @@
+typography_spectrum: 0.2730606582481414
+color:
+  brandStrength: 0.2930407817475498
+  lightness: 0.4021563217975199
+  saturation: 0.7619214719161391
+  rhythmicContrast: 0.47619843389838934
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+github: true
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/829c5fde-58ec-47a3-ae1e-debedf8b556d.jpg
+layout_spectrum: 0.33734297985211015
+author:
+  name: AnnaMarie
+  email: photos@byannamarie.com
+  url: ''
+name: AnnaMarie Photo AND Video Studio
+title: AnnaMarie Photo AND Video Studio
+description: Portraits. Family.Weddings. Events
