@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-10-03T05:58:39.968Z'
+datePublished: '2016-10-03T07:17:28.456Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T05:56:56.148Z'
+dateModified: '2016-10-03T07:17:27.400Z'
 title: Studio Packages
 publisher: {}
 description: >-
@@ -14,8 +14,8 @@ description: >-
   due at the time of booking in order to guarantee your session date and time.
   You may reschedule this appointment, provided you give us a minimum of 24
   hours notice, however we ask that you limit rescheduling to one time only~
-starred: false
 sourcePath: _posts/2016-10-03-studio-packages.md
+starred: false
 url: studio-packages/index.html
 _type: Article
 
