@@ -33,5 +33,8 @@ navigation:
   - name: Maternity Sessions
     id: 286bb1b2-f5ed-4d5e-ba6a-21438d8d808e
     type: content
+  - name: Mini Sessions
+    id: 536b4817-b84d-4b8b-bc98-a6fefb65b230
+    type: content
 title: AnnaMarie Photo AND Video Studio
 description: Portraits. Family.Weddings. Events
