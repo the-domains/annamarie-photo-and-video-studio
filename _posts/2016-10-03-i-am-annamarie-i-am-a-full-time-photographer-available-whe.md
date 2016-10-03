@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-03T07:19:02.057Z'
+datePublished: '2016-10-03T07:31:00.733Z'
 inFeed: true
 author: []
 via: {}
