@@ -24,5 +24,8 @@ navigation:
   - name: Studio Packages
     id: 6b895c52-f07d-4834-a584-46cb25bdb5a5
     type: content
+  - name: Newborn Sessions
+    id: 1bb7e6df-ea68-461b-acea-f0a4f26e6687
+    type: content
 title: AnnaMarie Photo AND Video Studio
 description: Portraits. Family.Weddings. Events
