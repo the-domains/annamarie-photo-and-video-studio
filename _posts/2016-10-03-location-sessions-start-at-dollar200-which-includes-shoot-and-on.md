@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-10-03T06:15:34.867Z'
+datePublished: '2016-10-03T07:18:14.410Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T06:14:56.269Z'
+dateModified: '2016-10-03T07:18:13.280Z'
 title: ''
 publisher: {}
 description: >-
@@ -13,9 +13,9 @@ description: >-
   5x7, 8x10) And ONE 11x14 Wall portrait.Party Coverage starts at $200 which
   covers 3 hours Plus you get all the images on a DVD.Wedding Packages
   here:https://www.facebook.com/notes/annamarie-photography/annamarie-photography-wedding-packages/849915748398417
-starred: false
 sourcePath: >-
   _posts/2016-10-03-location-sessions-start-at-dollar200-which-includes-shoot-and-on.md
+starred: false
 url: location-sessions-start-at-dollar200-which-includes-shoot-and-on/index.html
 _type: Article
 
