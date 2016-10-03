@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-10-03T07:14:03.105Z'
+datePublished: '2016-10-03T07:18:14.412Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T06:52:22.297Z'
+dateModified: '2016-10-03T07:18:13.280Z'
 title: ''
 publisher: {}
 description: Boudoir and PinUp
-starred: false
 sourcePath: _posts/2016-10-03-boudoir-and-pinup.md
+starred: false
 url: boudoir-and-pinup/index.html
 _type: Article
 
