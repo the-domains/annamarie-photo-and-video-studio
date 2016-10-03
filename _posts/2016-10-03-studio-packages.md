@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-10-03T07:17:39.075Z'
+datePublished: '2016-10-03T07:31:08.326Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T07:17:38.126Z'
+dateModified: '2016-10-03T07:18:35.050Z'
 title: Studio Packages
 publisher: {}
 description: >-
