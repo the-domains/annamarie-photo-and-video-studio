@@ -1,36 +1,29 @@
 ---
-datePublished: '2016-10-11T16:59:46.109Z'
+datePublished: '2016-10-11T17:07:56.321Z'
 sourcePath: _posts/2016-10-03-boudoir-and-pinup.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-11T16:59:44.780Z'
-title: Boudoir and PinUp
+dateModified: '2016-10-11T17:07:54.858Z'
+title: ''
 publisher: {}
-description: >-
-  *Boudoir and PinUp sessions: Session only, $200 & Makeover Session, $300. They
-  both include up to an hour session, with 3 changes, and 6 Beauty edits(Face &
-  Body retouching), PLUS you get "ALL" the images we take on a cd with the
-  copyrights! $100 Deposit due at the time of booking in order to guarantee your
-  session date and time. You may reschedule this appointment, provided you give
-  us a minimum of 24 hours notice, however we ask that you limit rescheduling to
-  one time only~
+description: Boudoir and PinUp
 starred: false
 url: boudoir-and-pinup/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e08c6dc-dccf-4075-bde9-cb89b86e67c6.jpg)
+
+**Boudoir and PinUp**
+
+\*Boudoir and PinUp sessions: Session only, $200 & Makeover Session, $300\. They both include up to an hour session, with 3 changes, and 6 Beauty edits(Face & Body retouching), PLUS you get "ALL" the images we take on a cd with the copyrights! $100 Deposit due at the time of booking in order to guarantee your session date and time. You may reschedule this appointment, provided you give us a minimum of 24 hours notice, however we ask that you limit rescheduling to one time only~
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f2486b4-91b3-4da8-8ca5-fd0b095e42d7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b39576b-b8a4-4d32-97b6-4c19cc95ccee.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a1f1e10-4c75-4f77-a9d7-c6cc8c26951e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cdf38e8-d7fd-41af-9965-9b8f9f4515ca.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61d4e518-2eb0-408a-b496-d396a6d1519c.jpg)
-
-## **Boudoir and PinUp**
-
-**\*Boudoir and PinUp sessions: Session only, $200 & Makeover Session, $300\. They both include up to an hour session, with 3 changes, and 6 Beauty edits(Face & Body retouching), PLUS you get "ALL" the images we take on a cd with the copyrights! $100 Deposit due at the time of booking in order to guarantee your session date and time. You may reschedule this appointment, provided you give us a minimum of 24 hours notice, however we ask that you limit rescheduling to one time only~**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d9b9166-2b5b-497f-b043-3d45d1422fb8.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c01297ed1ef1762241f955a2437989bcd1c9e597.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4df43fc0ab950b1c943ce4f8f8ec0e3052ea3fa3.jpg)
