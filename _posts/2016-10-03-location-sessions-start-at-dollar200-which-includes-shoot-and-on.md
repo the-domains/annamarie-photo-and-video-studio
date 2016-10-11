@@ -1,21 +1,29 @@
 ---
-datePublished: '2016-10-11T16:37:40.931Z'
+datePublished: '2016-10-11T17:04:05.304Z'
 sourcePath: >-
   _posts/2016-10-03-location-sessions-start-at-dollar200-which-includes-shoot-and-on.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-11T16:37:39.793Z'
-title: Location Sessions
+dateModified: '2016-10-11T17:04:04.017Z'
+title: ''
 publisher: {}
-description: ''
+description: Location Sessions
 starred: false
 url: location-sessions-start-at-dollar200-which-includes-shoot-and-on/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d52658ef-f54f-4182-8437-e9bf0152b045.jpg)
+
+**Location Sessions**
+
+**Location Sessions**
+
+\*Location Sessions start at $200 which includes shoot and one location (OKC) Plus TEN Poses printed on 8x10 sheets that can be what ever size you like(4x6, 5x7, 8x10) And ONE 11x14 Wall portrait. Party Coverage starts at $200 which covers 3 hours Plus you get all the images on a DVD. Wedding Packages here:https://www.facebook.com/notes/annamarie-photography/annamarie-photography-wedding-packages/849915748398417
+
+\*Location Sessions start at $200 which includes shoot and one location (OKC) Plus TEN Poses printed on 8x10 sheets that can be what ever size you like(4x6, 5x7, 8x10) And ONE 11x14 Wall portrait. Party Coverage starts at $200 which covers 3 hours Plus you get all the images on a DVD. Wedding Packages here:https://www.facebook.com/notes/annamarie-photography/annamarie-photography-wedding-packages/849915748398417
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2885377-6464-4618-88ec-5977329aaaf8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f27dd6f6-ca62-4f12-9687-5c75e86f6491.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30f13450-c765-42b8-8d43-3fc67af829a7.jpg)
@@ -41,10 +49,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0aa35f0-18f9-4eb0-832e-6b89d2a94142.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfda0283-46e2-4f08-8c2b-b75b5474f702.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4021111e-ab09-4c3e-884a-dd6649453706.jpg)
-
-# **Location Sessions**
-
-### **\*Location Sessions start at $200 which includes shoot and one location (OKC) PLus TEN Poses printed on 8x10 sheets that can be what ever size you like(4x6, 5x7, 8x10) And ONE 11x14 Wall portrait.Party Coverage starts at $200 which covers 3 hours Plus you get all the images on a DVD.Wedding Packages here:[https://www.facebook.com/notes/annamarie-photography/annamarie-photography-wedding-packages/849915748398417][0]**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e2134fb-ee2e-4287-9a33-0da4677df028.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/455c4575-cd94-4f0f-bba1-f9f9abb3cfe9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9f396ce-d4f4-4621-9c6d-25c228be5015.jpg)
@@ -111,5 +115,3 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf1b844d-3009-4088-9f61-7f5b64664d4e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f82473dd-9595-4379-8fda-941c4dc350c5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3fce97f-ef71-494d-a076-538f64aae68e.jpg)
-
-[0]: https://www.facebook.com/notes/annamarie-photography/annamarie-photography-wedding-packages/849915748398417
