@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-11T17:04:05.304Z'
+datePublished: '2016-10-11T19:02:15.594Z'
 sourcePath: >-
   _posts/2016-10-03-location-sessions-start-at-dollar200-which-includes-shoot-and-on.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-11T17:04:04.017Z'
+dateModified: '2016-10-11T19:02:14.047Z'
 title: ''
 publisher: {}
 description: Location Sessions
@@ -16,8 +16,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d52658ef-f54f-4182-8437-e9bf0152b045.jpg)
-
-**Location Sessions**
 
 **Location Sessions**
 
