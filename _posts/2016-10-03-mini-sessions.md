@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-03T14:08:31.724Z'
+datePublished: '2016-10-11T16:54:28.626Z'
 sourcePath: _posts/2016-10-03-mini-sessions.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T14:08:30.485Z'
+dateModified: '2016-10-11T16:54:27.087Z'
 title: Mini Sessions
 publisher: {}
 description: >-
