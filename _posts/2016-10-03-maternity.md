@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-03T14:20:19.151Z'
+datePublished: '2016-10-11T16:44:38.577Z'
 sourcePath: _posts/2016-10-03-maternity.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T14:20:18.307Z'
+dateModified: '2016-10-11T16:44:37.269Z'
 title: Maternity
 publisher: {}
 description: ''
@@ -96,7 +96,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22344b2a-6a1d-45eb-8cd4-4191f41294df.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c22fe8f4ec8677cd2a9d42d3cf23aea0225d171f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01890535-7c0e-48e7-8914-666998e17714.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/44fa906297ad6e4b68ac313b4f22b643/croprotate.jpg?cropheight=943&cropwidth=750&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fdf9db415e196d4795489231b32b6571fa74954c4.jpg&x=8&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/17d1f4a70192de0354e3fa8b32af046500e3836f.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c4045ec0ac2f371d1af83d37f6ada3c3d2e58cc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed9cb316-96e5-4def-9584-a712489f2ab5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/222797b2-0b8c-44dd-a639-59208cd81376.jpg)
