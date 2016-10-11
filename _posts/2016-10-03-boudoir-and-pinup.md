@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-03T14:08:59.690Z'
+datePublished: '2016-10-11T16:59:46.109Z'
 sourcePath: _posts/2016-10-03-boudoir-and-pinup.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T14:08:57.957Z'
+dateModified: '2016-10-11T16:59:44.780Z'
 title: Boudoir and PinUp
 publisher: {}
 description: >-
@@ -96,9 +96,9 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5503cbb2-225c-4b79-9141-89e6ee4cf711.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce388edc-277f-4cfd-8f79-17f787d1b4fd.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad7557e3386657ef9f3d9c0e32fc013278442c30.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6d73553e2e5f523b0e603ab16c2cded6/croprotate.jpg?cropheight=944&cropwidth=620&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe8af1562-8073-437f-9a19-b44db2e241c1.jpg&x=8&y=8)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d5ef2c4db569712d8ab09f0d0b1add36/croprotate.jpg?cropheight=944&cropwidth=620&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9c626e72-3264-43a3-ad67-66d19052fc46.jpg&x=8&y=8)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/23109a8e08c133ffa86ecb0af8d1fb14/croprotate.jpg?cropheight=944&cropwidth=620&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F202719a1-ff61-45c5-b220-ea4f57dbffdf.jpg&x=8&y=8)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/72c04bd36b34c32294c27eefaadd6d6bed3177b4.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b46cf4e6666f4ff80f7012b6316f251134b3821.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eaaa62007610a8a371dbc843c015c739568a2279.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9132632c-430b-436d-be9e-f38f942d43ef.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06a39503-ab1c-449c-9647-8d29f477fea0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/864b602a-97eb-4b8e-8ecf-5576f61d4eab.jpg)
