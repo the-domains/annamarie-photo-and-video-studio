@@ -39,7 +39,8 @@ navigation:
   - name: Beauty Sessions
     id: aa2f5945-17a3-4283-8637-c38ee46fb112
     type: content
-title: AnnaMarie Photo AND Video Studio
+title: 'AnnaMarie Photo AND Video '
+content: []
 description: Portraits. Family.Weddings. Events
 purpose:
   - type: contact
