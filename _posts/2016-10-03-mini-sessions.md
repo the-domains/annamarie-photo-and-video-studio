@@ -1,24 +1,24 @@
 ---
-datePublished: '2016-10-11T16:54:28.626Z'
+datePublished: '2016-10-12T11:47:58.087Z'
 sourcePath: _posts/2016-10-03-mini-sessions.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-11T16:54:27.087Z'
-title: Mini Sessions
+dateModified: '2016-10-12T11:47:57.358Z'
+title: ''
 publisher: {}
-description: >-
-  *Mini Deals are pre-paid and there is a $50, non-refundable, Deposit due at
-  the time of booking in order to guarantee your session date and time. You may
-  reschedule this appointment, provided you give us a minimum of 48 hours
-  notice, however we ask that you limit rescheduling to one time only.
+description: Mini Sessions
 starred: false
 url: mini-sessions/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f0db525-927a-42d1-a48e-689aeb56562b.jpg)
+
+**Mini Sessions**
+
+\*Mini Deals are pre-paid and there is a $50, non-refundable, Deposit due at the time of booking in order to guarantee your session date and time. You may reschedule this appointment, provided you give us a minimum of 48 hours notice, however we ask that you limit rescheduling to one time only.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e743a91-e37c-4a4f-a3c5-e1628d477e11.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/52eaddee-5d7f-494e-9c89-4be06c87ed84.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/637219f9-7c1f-42e3-bc52-16bfe3e8e590.jpg)
@@ -32,10 +32,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44ba6183-6d26-4ff3-a139-666d541b0d35.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/816055af-5f82-467d-84f5-5a9e24003823.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f94b50d-bbdc-4bc0-984e-8f7d067f510d.jpg)
-
-# **Mini Sessions**
-
-**\*Mini Deals are pre-paid and there is a $50, non-refundable, Deposit due at the time of booking in order to guarantee your session date and time. You may reschedule this appointment, provided you give us a minimum of 48 hours notice, however we ask that you limit rescheduling to one time only.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdbef719-ae1b-4c7a-bcaf-6f636d054b2b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e8ca105-0271-4e17-8c97-9ebb29156993.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9500a415-bbbb-4ef2-975f-7d6dc0dc3aa0.jpg)
