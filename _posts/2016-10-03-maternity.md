@@ -1,20 +1,24 @@
 ---
-datePublished: '2016-10-11T16:44:38.577Z'
+datePublished: '2016-10-12T11:47:28.186Z'
 sourcePath: _posts/2016-10-03-maternity.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-11T16:44:37.269Z'
-title: Maternity
+dateModified: '2016-10-12T11:47:26.313Z'
+title: ''
 publisher: {}
-description: ''
+description: Maternity
 starred: false
 url: maternity/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/217743aa-0e4c-4d23-ac7d-34283e235fc1.jpg)
+
+**Maternity**
+
+Maternity Sessions start at $150 which includes Ten 8x10 sheets and an 11x14 wall portrait!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72814c87-2abf-435b-91bd-0f55f3cf3942.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/019cab19-4bf4-42d2-8779-2871e2298838.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/52fd85a6-4d36-4b18-88a0-0e625e02804b.jpg)
@@ -64,8 +68,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17a97bf8-154d-40f8-a86d-50676939ac74.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8d59f8d-4a11-468b-830a-8c90b92aa548.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05af8b60-8536-4353-9c9b-32314320686b.jpg)
-
-# Maternity
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49661ee2-e8e8-458c-aafb-87bfb2c2642c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71a55f0c-100d-4e24-9c8d-877a5e6874af.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07a48d24-7ace-4cb1-8116-6159dec20d78.jpg)
