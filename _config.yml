@@ -36,6 +36,9 @@ navigation:
   - name: Beauty Sessions
     id: aa2f5945-17a3-4283-8637-c38ee46fb112
     type: content
+  - name: Videos
+    url: 'https://www.facebook.com/pg/byAnnaMariePhotography/videos/'
+    type: external
 title: 'AnnaMarie Photo AND Video '
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -46,19 +49,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7fd7f1c-5eb3-4587-9d69-7f1a9c2e0a55.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
