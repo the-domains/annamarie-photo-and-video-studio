@@ -1,20 +1,32 @@
 ---
-datePublished: '2017-08-01T17:39:53.178Z'
+datePublished: '2017-08-01T18:26:11.666Z'
 sourcePath: _posts/2016-10-03-maternity.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-08-01T17:39:50.837Z'
+dateModified: '2017-08-01T18:26:10.221Z'
 title: ''
 publisher: {}
-description: Maternity
+description: >-
+  We have 3 Family Session Packages. A Print mini for $100 with Three Pose with
+  8x10's, Three 5x7's, and Three 4x6 Prints. up to 30-minute session with One
+  outfit. Disc NOT included. Good for one immediate family. * A DISC only Mini,
+  $150 for all images on disc. up to 30-minute session with One outfit. Good for
+  one immediate family. $200 includes up to an hour session with Ten 8x10
+  prints, in both printed and digital copies(in case you need more than ten
+  copies..). Good for Entire Family Including Grandma!!!
 starred: false
 datePublishedOriginal: '2016-10-12T11:47:28.186Z'
 url: maternity/index.html
 _type: Article
 
 ---
+We have 3 Family Session Packages. A Print mini for $100 with Three Pose with 8x10's, Three 5x7's, and Three 4x6 Prints. up to 30-minute session with One outfit. Disc NOT included. Good for one immediate family. \* A DISC only Mini, $150 for all images on disc. up to 30-minute session with One outfit. Good for one immediate family.  
+$200 includes up to an hour session with Ten 8x10 prints, in both printed and digital copies(in case you need more than ten copies..). Good for Entire Family Including Grandma!!!
+
+AnnaMarie Photography 405-517-8000  
+[\#familyphotos][0][\#nevertohotforphotos][1][\#annamariephotographyokc][2][\#byannamariephotography][3][\#byannamarie][4]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/217743aa-0e4c-4d23-ac7d-34283e235fc1.jpg)
 
 **Maternity**
@@ -118,3 +130,9 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bf74f81-7b9f-4e18-bf78-42474ca8d2a6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/760342d1-b71d-4b19-be47-469af15fbcd1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fc7e9b3-0c46-4077-a42c-853f0be95849.jpg)
+
+[0]: https://www.facebook.com/hashtag/familyphotos
+[1]: https://www.facebook.com/hashtag/nevertohotforphotos
+[2]: https://www.facebook.com/hashtag/annamariephotographyokc
+[3]: https://www.facebook.com/hashtag/byannamariephotography
+[4]: https://www.facebook.com/hashtag/byannamarie
