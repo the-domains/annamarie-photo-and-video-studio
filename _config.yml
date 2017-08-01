@@ -37,55 +37,7 @@ navigation:
     id: 2b1ef08e-863e-4474-99ca-b3011709398c
     type: content
 title: 'AnnaMarie Photo AND Video '
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/43f0bfb3-17e5-46fa-af91-a0ce96cd33ad.png">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/43f0bfb3-17e5-46fa-af91-a0ce96cd33ad.png
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f58b43c4-ae5c-4825-b1ba-e042acb4ecca.png">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/f58b43c4-ae5c-4825-b1ba-e042acb4ecca.png
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: Portraits. Family.Weddings. Events
 purpose:
   - type: contact
