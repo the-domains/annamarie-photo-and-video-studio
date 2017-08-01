@@ -21,6 +21,9 @@ author:
   url: ''
 name: ByAnnaMarie
 navigation:
+  - name: Family Sessions
+    id: 2b1ef08e-863e-4474-99ca-b3011709398c
+    type: content
   - name: Newborn Sessions
     id: 1bb7e6df-ea68-461b-acea-f0a4f26e6687
     type: content
@@ -32,9 +35,6 @@ navigation:
     type: content
   - name: Beauty Sessions
     id: aa2f5945-17a3-4283-8637-c38ee46fb112
-    type: content
-  - name: Family Sessions
-    id: 2b1ef08e-863e-4474-99ca-b3011709398c
     type: content
 title: 'AnnaMarie Photo AND Video '
 content:
@@ -55,7 +55,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
