@@ -1,41 +1,27 @@
 ---
-datePublished: '2017-08-01T18:30:53.895Z'
+datePublished: '2017-08-01T22:56:14.940Z'
 sourcePath: _posts/2016-10-03-maternity.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-08-01T18:30:49.963Z'
+dateModified: '2017-08-01T22:56:13.354Z'
 title: ''
 publisher: {}
-description: >-
-  We have 3 Family Session Packages. A Print mini for $100 with Three Pose with
-  8x10's, Three 5x7's, and Three 4x6 Prints. up to 30-minute session with One
-  outfit. Disc NOT included. Good for one immediate family. * A DISC only Mini,
-  $150 for all images on disc. up to 30-minute session with One outfit. Good for
-  one immediate family.$200 includes up to an hour session with Ten 8x10 prints,
-  in both printed and digital copies(in case you need more than ten copies..).
-  Good for Entire Family Including Grandma!!!
+description: Maternity
 starred: false
 datePublishedOriginal: '2016-10-12T11:47:28.186Z'
 url: maternity/index.html
 _type: Article
 
 ---
+**Maternity**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc80ca5e-11e0-4569-9115-60b5aab62a1c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b30be02-e80a-46f2-b2b3-d006d9374cf3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83eae77a-eb7c-4b92-89f4-9e1d4afb2dd6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2f1cfc6-85b7-4bbf-b350-716f75324522.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/220d5c2f-6291-476e-8734-2d69f1d94446.jpg)
-
-We have 3 Family Session Packages. A Print mini for $100 with Three Pose with 8x10's, Three 5x7's, and Three 4x6 Prints. up to 30-minute session with One outfit. Disc NOT included. Good for one immediate family. \* A DISC only Mini, $150 for all images on disc. up to 30-minute session with One outfit. Good for one immediate family.  
-$200 includes up to an hour session with Ten 8x10 prints, in both printed and digital copies(in case you need more than ten copies..). Good for Entire Family Including Grandma!!!
-
-AnnaMarie Photography 405-517-8000  
-[\#familyphotos][0][\#nevertohotforphotos][1][\#annamariephotographyokc][2][\#byannamariephotography][3][\#byannamarie][4]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/217743aa-0e4c-4d23-ac7d-34283e235fc1.jpg)
-
-**Maternity**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72814c87-2abf-435b-91bd-0f55f3cf3942.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/019cab19-4bf4-42d2-8779-2871e2298838.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/52fd85a6-4d36-4b18-88a0-0e625e02804b.jpg)
@@ -148,9 +134,3 @@ AnnaMarie Photography 405-517-8000
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/760342d1-b71d-4b19-be47-469af15fbcd1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0ee00d4-9a7e-4126-b35a-286ae99d68fc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fc7e9b3-0c46-4077-a42c-853f0be95849.jpg)
-
-[0]: https://www.facebook.com/hashtag/familyphotos
-[1]: https://www.facebook.com/hashtag/nevertohotforphotos
-[2]: https://www.facebook.com/hashtag/annamariephotographyokc
-[3]: https://www.facebook.com/hashtag/byannamariephotography
-[4]: https://www.facebook.com/hashtag/byannamarie
