@@ -1,20 +1,35 @@
 ---
-datePublished: '2017-08-01T18:54:17.685Z'
+datePublished: '2017-08-01T18:57:27.139Z'
 sourcePath: _posts/2016-10-03-studio-packages.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-08-01T18:54:15.876Z'
+dateModified: '2017-08-01T18:57:25.740Z'
 title: ''
 publisher: {}
-description: ''
+description: >-
+  We have 3 Family Session Packages. A Print mini for $100 with Three Pose with
+  8x10's, Three 5x7's, and Three 4x6 Prints. up to 30-minute session with One
+  outfit. Disc NOT included. Good for one immediate family. * A DISC only Mini,
+  $150 for all images on disc. up to 30-minute session with One outfit. Good for
+  one immediate family. $200 includes up to an hour session with Ten 8x10
+  prints, in both printed and digital copies(in case you need more than ten
+  copies..). Good for Entire Family Including Grandma!!! And our August Special
+  is $300 for ALL images on disc with Ten 8x10 prints. AnnaMarie Photography
+  405-517-8000
+  #familyphotos#nevertohotforphotos#annamariephotographyokc#byannamariephotography#byannamarie
 starred: false
 datePublishedOriginal: '2016-10-11T17:08:55.562Z'
 url: studio-packages/index.html
 _type: Article
 
 ---
+We have 3 Family Session Packages. A Print mini for $100 with Three Pose with 8x10's, Three 5x7's, and Three 4x6 Prints. up to 30-minute session with One outfit. Disc NOT included. Good for one immediate family. \* A DISC only Mini, $150 for all images on disc. up to 30-minute session with One outfit. Good for one immediate family.  
+$200 includes up to an hour session with Ten 8x10 prints, in both printed and digital copies(in case you need more than ten copies..). Good for Entire Family Including Grandma!!!  
+And our August Special is $300 for ALL images on disc with Ten 8x10 prints.  
+AnnaMarie Photography 405-517-8000  
+[\#familyphotos][0][\#nevertohotforphotos][1][\#annamariephotographyokc][2][\#byannamariephotography][3][\#byannamarie][4]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76865094-c034-432b-937f-cf909624be35.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07c665be-4076-4434-9ee7-006dbe153576.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb438901-4a4e-47b0-bb54-0b2d0abaf0ae.jpg)
@@ -156,3 +171,9 @@ _type: Article
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d3c820c9d5c4408d7520b4deb9581fd78ede7df.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1eaa2c0e4f1063f496afef15010d451eebaf87a7.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/18c4f8e2e5e2a2c7ea751246932108bd1a38c67b.jpg)
+
+[0]: https://www.facebook.com/hashtag/familyphotos
+[1]: https://www.facebook.com/hashtag/nevertohotforphotos
+[2]: https://www.facebook.com/hashtag/annamariephotographyokc
+[3]: https://www.facebook.com/hashtag/byannamariephotography
+[4]: https://www.facebook.com/hashtag/byannamarie
