@@ -21,9 +21,6 @@ author:
   url: ''
 name: ByAnnaMarie
 navigation:
-  - name: Studio Packages
-    id: 6b895c52-f07d-4834-a584-46cb25bdb5a5
-    type: content
   - name: Newborn Sessions
     id: 1bb7e6df-ea68-461b-acea-f0a4f26e6687
     type: content
@@ -58,7 +55,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
