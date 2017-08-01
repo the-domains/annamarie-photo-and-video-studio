@@ -33,9 +33,6 @@ navigation:
   - name: Beauty Sessions
     id: aa2f5945-17a3-4283-8637-c38ee46fb112
     type: content
-  - name: Family Sessions
-    id: 6b895c52-f07d-4834-a584-46cb25bdb5a5
-    type: content
 title: 'AnnaMarie Photo AND Video '
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
