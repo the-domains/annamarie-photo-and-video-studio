@@ -1,15 +1,16 @@
 ---
-datePublished: '2016-10-11T17:07:56.321Z'
+datePublished: '2017-08-01T18:51:12.158Z'
 sourcePath: _posts/2016-10-03-boudoir-and-pinup.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-11T17:07:54.858Z'
+dateModified: '2017-08-01T18:51:10.422Z'
 title: ''
 publisher: {}
 description: Boudoir and PinUp
 starred: false
+datePublishedOriginal: '2016-10-11T17:07:56.321Z'
 url: boudoir-and-pinup/index.html
 _type: Article
 
@@ -96,3 +97,13 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06a39503-ab1c-449c-9647-8d29f477fea0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/864b602a-97eb-4b8e-8ecf-5576f61d4eab.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e49e5335-c53b-4257-9af1-da6e17b68688.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15099684-2727-4c7b-aee6-bdd496c086bd.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4e54110-3f77-4360-8393-09f46298f85d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b4ebefd-90de-4576-b77c-4f9b87861ef2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/123e9e8b-cfdc-4020-aac9-6b9b24858130.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4612b1bd-6963-468e-a5d7-80f02cdbcdaf.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e2af9c4-bf37-4c48-ac51-7b2b0d6e9249.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce3c21b1-5232-48a6-a0cd-8a74fcb862e7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd962d81-b832-4318-9515-2bc032d5722e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e867209-7b74-4ccf-872d-fcd81dc85adc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc46dbba-f770-4567-b7bd-9b2ab1dde172.jpg)
