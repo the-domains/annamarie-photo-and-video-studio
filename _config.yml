@@ -24,9 +24,6 @@ navigation:
   - name: Newborn Sessions
     id: 1bb7e6df-ea68-461b-acea-f0a4f26e6687
     type: content
-  - name: Location Sessions
-    id: edb0a0ec-74f1-48b9-9915-f34cc7f6211f
-    type: content
   - name: Maternity Sessions
     id: 286bb1b2-f5ed-4d5e-ba6a-21438d8d808e
     type: content
