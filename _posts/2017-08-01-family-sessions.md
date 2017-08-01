@@ -10,8 +10,8 @@ description: >-
   Good for Entire Family Including Grandma!!!And our August Special is $300 for
   ALL images on disc with Ten 8x10 prints.AnnaMarie Photography
   405-517-8000#familyphotos#nevertohotforphotos#annamariephotographyokc#byannamariephotography#byannamarie
-dateModified: '2017-08-01T22:13:09.773Z'
-datePublished: '2017-08-01T22:13:11.351Z'
+dateModified: '2017-08-01T22:27:43.839Z'
+datePublished: '2017-08-01T22:27:44.985Z'
 title: Family Sessions
 author: []
 publisher: {}
