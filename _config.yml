@@ -24,14 +24,14 @@ navigation:
   - name: Family Sessions
     id: 2b1ef08e-863e-4474-99ca-b3011709398c
     type: content
+  - name: Maternity Sessions
+    id: 286bb1b2-f5ed-4d5e-ba6a-21438d8d808e
+    type: content
   - name: Newborn Sessions
     id: 1bb7e6df-ea68-461b-acea-f0a4f26e6687
     type: content
   - name: Mini Sessions
     id: 536b4817-b84d-4b8b-bc98-a6fefb65b230
-    type: content
-  - name: Maternity Sessions
-    id: 286bb1b2-f5ed-4d5e-ba6a-21438d8d808e
     type: content
   - name: Beauty Sessions
     id: aa2f5945-17a3-4283-8637-c38ee46fb112
