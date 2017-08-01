@@ -1,26 +1,26 @@
 ---
-datePublished: '2016-10-11T17:08:55.562Z'
+datePublished: '2017-08-01T17:38:34.928Z'
 sourcePath: _posts/2016-10-03-studio-packages.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-11T17:02:55.139Z'
+dateModified: '2017-08-01T17:38:32.753Z'
 title: ''
 publisher: {}
-description: Studio Packages
+description: ''
 starred: false
+datePublishedOriginal: '2016-10-11T17:08:55.562Z'
 url: studio-packages/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76865094-c034-432b-937f-cf909624be35.jpg)
-
-Studio Packages
-
-\*In studio Photo Packages start at $150 which covers the time and talent of the photographer a long with TEN Poses printed on 8x10 sheets that can be what ever size you like(4x6, 5x7, 8x10) And ONE 11x14 Wall portrait. $50 Deposit due at the time of booking in order to guarantee your session date and time. You may reschedule this appointment, provided you give us a minimum of 24 hours notice, however we ask that you limit rescheduling to one time only~
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07c665be-4076-4434-9ee7-006dbe153576.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb438901-4a4e-47b0-bb54-0b2d0abaf0ae.jpg)
+
+---
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8c47159-5176-4600-8dfe-a5d2b9c56459.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b46563d-8f89-421a-8bd0-6661ddcd3c5b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4649c05f-6894-4886-9d88-ea9daad04055.jpg)
