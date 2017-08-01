@@ -1,20 +1,21 @@
 ---
-datePublished: '2017-08-01T18:36:10.093Z'
+datePublished: '2017-08-01T18:49:10.717Z'
 sourcePath: _posts/2016-10-03-mini-sessions.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-08-01T18:36:08.758Z'
+dateModified: '2017-08-01T18:49:08.999Z'
 title: ''
 publisher: {}
-description: Mini Sessions
+description: ' For our monthly Mini specials,  Follow us on Facebook !'
 starred: false
 datePublishedOriginal: '2016-10-12T11:47:58.087Z'
 url: mini-sessions/index.html
 _type: Article
 
 ---
+For our monthly Mini specials, Follow us on Facebook !
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2cb7ab6c-e80f-480c-934c-a6826ffe80f8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3e8c02e-01ac-4afa-80b2-4759773c8931.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5c33e45-b0b0-4fd9-b8d6-5290ee15ae2f.jpg)
