@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-08-01T17:38:34.928Z'
+datePublished: '2017-08-01T18:54:17.685Z'
 sourcePath: _posts/2016-10-03-studio-packages.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-08-01T17:38:32.753Z'
+dateModified: '2017-08-01T18:54:15.876Z'
 title: ''
 publisher: {}
 description: ''
